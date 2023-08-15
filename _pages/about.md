@@ -8,22 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am an Economist Bachellor interested in different academic fields such as economic development, income and education inequality, innovation and technology. I like reading about the impact of new advanced technologies in daily life and society. In that sence i am looking forward to enrich my programing skills in Machine Learning and policy evaluation tools.
+I am an Economics Bachelor with a keen interest in various academic fields, including economic development, income and education inequality, innovation, and technology. I enjoy delving into literature that explores the impact of advanced technologies on daily life and society. With this in mind, I am enthusiastic about enhancing my programming skills in Machine Learning and policy evaluation tools.
 
 Selected Experience
 ======
-I am starting an specialization on setember 2023 on Data Science for Social Science and Public Managment at PUCP. In the future i will post some of my work in my Github repository.
+Starting September 2023, I'll be pursuing a specialization in Data Science for Social Science and Public Management at PUCP. I'll be sharing my projects on GitHub as part of this journey.
 
-On 2022-1 i enrolled on the Machine Learning and Causal Inference course at PUCP. I learned the theory and practical tools to estimate causality. Such methods include: lasso regressions, causal trees and causal forest. You can see the materials of the course [here](https://github.com/AlvaroZapata27/Machine-Learning-and-Causal-Inference-PUCP). I had the opportunity to learn and use 3 different coding languages: Python, R and Julia. 
+In the 2022-1 term, I took the Machine Learning and Causal Inference course at PUCP. I learned to estimate causality using techniques like lasso regressions, causal trees, and causal forest. Check out the course materials here. This course also honed my programming skills in Python, R, and Julia.
 
-In most of my univesity projects and work experiences I have worked using Stata. Some of the more relevant databases that i have worked with are the Encuesta Nacional de Hogares (ENAHO), Encuesta Económica Anual (EEA), Encuesta Nacional de Innovación (ENIIM) and Sistema de Información para la toma de Decisiones (SIRTOD).
+My university projects and work have mostly involved using Stata, and I've handled several relevant databases such as Encuesta Nacional de Hogares (ENAHO), Encuesta Económica Anual (EEA), Encuesta Nacional de Innovación (ENIIM) and Sistema de Información para la toma de Decisiones (SIRTOD).
 
 Achivements and Publications
 ======
-During my undergraduate carreer me and my college Enrique won first place on the Social Science Faculty Contest in the economics research category. In these instance we took an historic approach to the implications of ideology on economic and social inequalities in Peru since its independence. You can read our work [here] (https://facultad.pucp.edu.pe/ciencias-sociales/wp-content/uploads/2021/02/estudioeconomico-enrique-rios-alvaro-zapata.pdf).
+During my undergraduate career, my colleague Enrique and I secured the top position in the economics research category of the Social Science Faculty Contest. Our winning entry adopted a historical approach to analyze the impact of ideology on economic and social inequalities in Peru since its independence. You can read our work [here] (https://facultad.pucp.edu.pe/ciencias-sociales/wp-content/uploads/2021/02/estudioeconomico-enrique-rios-alvaro-zapata.pdf).
 
 My first publication was on the indexed anthropology students journal: [Anthropía](https://revistas.pucp.edu.pe/index.php/anthropia). I had the chance to publish a book review. You can read it [here](https://revistas.pucp.edu.pe/index.php/anthropia/article/view/22267).
 
 Web Articles
 ======
-During 2021 to 2022 I was member and former Sub-Director of the Research an Publication department of the the Economics Students Journal: [Económica](https://economica.pe/). Besides my tasks of setting meetings and goals of team i had the opportunity to publish a couple of web articles discusing income inequality, fiscal policy in Peru and USA. You can read the articles [here](https://economica.pe/?s=alvaro+zapata).
+From 2021 to 2022, I served as a member and former Sub-Director of the Research and Publication department at the Economics Students Journal: [Económica](https://economica.pe/). In addition to my responsibilities of organizing meetings and establishing team objectives, I had the privilege of contributing web articles that delved into topics such as income inequality and fiscal policy in Peru and the USA. You can read the articles [here](https://economica.pe/?s=alvaro+zapata).
+
+Nice to meet you !

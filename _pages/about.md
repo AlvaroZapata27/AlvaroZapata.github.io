@@ -20,7 +20,7 @@ My university projects and work have mostly involved using Stata, and I've handl
 
 Achivements and Publications
 ======
-During my undergraduate career, my colleague Enrique and I secured the top position in the economics research category of the Social Science Faculty Contest. Our winning entry adopted a historical approach to analyze the impact of ideology on economic and social inequalities in Peru since its independence. You can read our work [here] (https://facultad.pucp.edu.pe/ciencias-sociales/wp-content/uploads/2021/02/estudioeconomico-enrique-rios-alvaro-zapata.pdf).
+During my undergraduate career, my colleague Enrique and I secured the top position in the economics research category of the Social Science Faculty Contest. Our winning entry adopted a historical approach to analyze the impact of ideology on economic and social inequalities in Peru since its independence. You can read our work [here](https://facultad.pucp.edu.pe/ciencias-sociales/wp-content/uploads/2021/02/estudioeconomico-enrique-rios-alvaro-zapata.pdf).
 
 My first publication was on the indexed anthropology students journal: [Anthropía](https://revistas.pucp.edu.pe/index.php/anthropia). I had the chance to publish a book review. You can read it [here](https://revistas.pucp.edu.pe/index.php/anthropia/article/view/22267).
 

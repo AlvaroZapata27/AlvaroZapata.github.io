@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Economics Bachelor with a keen interest in various academic fields, including economic development, income and education inequality, innovation, and technology. I enjoy delving into literature that explores the impact of advanced technologies on daily life and society. With this in mind, I am enthusiastic about enhancing my programming skills in Machine Learning and policy evaluation tools.
+I am an Economics Bachelor with a keen interest in various academic fields, including economic development, labor economics, income and education inequality, innovation, and technology. I enjoy delving into literature that explores the impact of advanced technologies on daily life and society. With this in mind, I am enthusiastic about enhancing my programming skills in Machine Learning and policy evaluation tools.
 
 Selected Experience
 ======

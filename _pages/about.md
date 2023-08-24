@@ -18,7 +18,7 @@ In the 2022-1 term, I took the Machine Learning and Causal Inference course at P
 
 My university projects and work have mostly involved using Stata, and I've handled several relevant databases such as Encuesta Nacional de Hogares (ENAHO), Encuesta Económica Anual (EEA), Encuesta Nacional de Innovación (ENIIM) and Sistema de Información para la toma de Decisiones (SIRTOD).
 
-Achivements and Publications
+Achievements and Publications
 ======
 During my undergraduate career, my colleague Enrique and I secured the top position in the economics research category of the Social Science Faculty Contest. Our winning entry adopted a historical approach to analyze the impact of ideology on economic and social inequalities in Peru since its independence. You can read our work [here](https://facultad.pucp.edu.pe/ciencias-sociales/wp-content/uploads/2021/02/estudioeconomico-enrique-rios-alvaro-zapata.pdf).
 

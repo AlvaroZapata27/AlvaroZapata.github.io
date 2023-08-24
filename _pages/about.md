@@ -14,7 +14,7 @@ Selected Experience
 ======
 Starting September 2023, I'll be pursuing a specialization in Data Science for Social Science and Public Management at PUCP. I'll be sharing my projects on GitHub as part of this journey.
 
-In the 2022-1 term, I took the Machine Learning and Causal Inference course at PUCP. I learned to estimate causality using techniques like lasso regressions, causal trees, and causal forest. Check out the course materials here. This course also honed my programming skills in Python, R, and Julia.
+In the 2022-1 term, I took the Machine Learning and Causal Inference course at PUCP. I learned to estimate causality using techniques like lasso regressions, causal trees, and causal forest. Check out the course materials [here](https://github.com/AlvaroZapata27/Machine-Learning-and-Causal-Inference-PUCP). This course also honed my programming skills in Python, R, and Julia.
 
 My university projects and work have mostly involved using Stata, and I've handled several relevant databases such as Encuesta Nacional de Hogares (ENAHO), Encuesta Económica Anual (EEA), Encuesta Nacional de Innovación (ENIIM) and Sistema de Información para la toma de Decisiones (SIRTOD).
 

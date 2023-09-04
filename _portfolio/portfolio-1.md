@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Apoyos financieros y no-financieros de PROINNOVATE"
+excerpt: "On this occasion, I was interested in analyzing the Financed Projects in Progress and the Finished Financed Projects of PROINNOVATE - [National Program for Technological Development and Innovation - PROINNOVATE]. These bases contain extensive information on 6,107 projects from 2007 to 2023.
+I wanted to answer the questions about what types of projects and technologies the institution supports through financial and non-financial resources. To do this, I programed a code that allows  to classify the projects based on the textual analysis of their descriptions. This classification assigns a score according to the incidence of KeyWords in the descriptions and identifies a main and a secondary category. 1<br/><img src='/images/trend.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+. 
